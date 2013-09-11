@@ -9,11 +9,11 @@
 * Run `git submodule init`
 * Run `git submodule update`
 
-Now you have:
+# Now you have:
 
-rspec_talk_gem : Basic gem to learn basics of RSpec
-rspec_talk_project: Basic project with some models, controllers, views and gems learn basics of RSpec in rails
-rspec_talk_slides: Slides used to make a presentation about RSpec
+* rspec_talk_gem : Basic gem to learn basics of RSpec
+* rspec_talk_project: Basic project with some models, controllers, views and gems learn basics of RSpec in rails
+* rspec_talk_slides: Slides used to make a presentation about RSpec
 
 ## Author
 This was written by [Luis Edimerchk Laverde](http://twitter.com/edymerchk).
