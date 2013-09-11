@@ -1,0 +1,9 @@
+[submodule "rspec_talk_project"]
+	path = rspec_talk_project
+	url = https://github.com/edymerchk/rspec_talk_project
+[submodule "rspec_talk_gem"]
+	path = rspec_talk_gem
+	url = https://github.com/edymerchk/rspec_talk_gem
+[submodule "rspec_talk_slides"]
+	path = rspec_talk_slides
+	url = https://github.com/edymerchk/rspec_talk_slides
